@@ -12,7 +12,7 @@
     ]
   },
   "bot_target": {
-    "username": "YourBot",
+    "username": "GENERATEQRSBOT",
     "commands": {
       "v1": "/addv1",
       "v2": "/addv2",
@@ -29,9 +29,9 @@
   },
   "vip_invite": {
     "map": {
-      "linkv1": -1001111111111,
-      "linkv2": -1002222222222,
-      "linkv3": -1003333333333
+      "linkv1": -1003137097729,
+      "linkv2": -1002666991595,
+      "linkv3": -1003099178684
     },
     "ttl_sec": 3600,
     "limit": 1,
